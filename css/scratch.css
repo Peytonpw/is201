@@ -1,0 +1,58 @@
+body {
+    background-image: url(https://img.freepik.com/premium-photo/geometric-seamless-patterns-abstract-modern-line-ornament-textures-design-print-package-decor_789279-6643.jpg);
+    background-size: cover;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
+img{
+    border:2px solid black;
+    padding: 2px;
+    width: 80%;
+}
+.centerme{
+    color:black;
+    display: block;
+    margin: auto;
+    WIDTH:80%;
+}
+.tableauplaceholder{
+    display: block;
+    margin: auto;
+}
+h1{
+    font-family: Helvetica, sans-serif;
+    color: rgb(100, 1, 100);
+    text-align: center;
+}
+ol{
+    Background-color: rgba(0,0,0,0.74);
+}
+.common{
+    position: absolute;
+}
+.footer{
+    z-index:1;
+    position: fixed;
+    bottom: 0px;
+    display: block;
+    text-align: center;
+    background-color: lightgrey;
+    padding: 10px;
+    width:100%;
+}
+.header{
+    margin: 0;
+    background-color: lightgrey;
+    padding: 25px;
+    width:100%;
+    font-size: px;
+  }
+.mainbody{
+    top:75px;
+    bottom: 1000px;
+}
+figcaption{
+    Background-color: rgba(0,0,0,0.74);
+}
